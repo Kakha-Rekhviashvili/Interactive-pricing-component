@@ -21,6 +21,7 @@ body {
   background-image: url(images/bg-pattern.svg);
   background-color: #fbfeff;
   background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .application {
