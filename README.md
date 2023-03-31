@@ -11,4 +11,4 @@ Use the slider and toggle to see prices for different page view numbers
 Screenshot
 
 
-Live Site URL: https://interactive-pricing-component-lake-three.vercel.app
+Live Site URL: https://kakha-rekhviashvili.github.io/Interactive-pricing-component/
